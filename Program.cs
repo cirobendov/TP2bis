@@ -1,23 +1,21 @@
 ﻿
 int opcion;
 opcion = ingresarOpcion();
-
+SuperHeroe superHeroe1 = null, superHeroe2 = null;
 while (opcion != 4)
 {
 switch(opcion)
 {
     case 1:
-        SuperHeroe superHeroe1;
         superHeroe1 = ingresarSuperheroe();
     break;
 
     case 2:
-        SuperHeroe superHeroe2;
         superHeroe2 = ingresarSuperheroe();
     break;
 
     case 3:
-
+        Competir(superHeroe1, superHeroe2);
     break;
 }
     opcion = ingresarOpcion();
