@@ -1,0 +1,14 @@
+Z:\Programacion 4to BEN_DOV\TP_02bis\bin\Debug\net8.0\TP_02bis.exe
+Z:\Programacion 4to BEN_DOV\TP_02bis\bin\Debug\net8.0\TP_02bis.deps.json
+Z:\Programacion 4to BEN_DOV\TP_02bis\bin\Debug\net8.0\TP_02bis.runtimeconfig.json
+Z:\Programacion 4to BEN_DOV\TP_02bis\bin\Debug\net8.0\TP_02bis.dll
+Z:\Programacion 4to BEN_DOV\TP_02bis\bin\Debug\net8.0\TP_02bis.pdb
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.AssemblyInfoInputs.cache
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.AssemblyInfo.cs
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.csproj.CoreCompileInputs.cache
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.dll
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\refint\TP_02bis.dll
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.pdb
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\TP_02bis.genruntimeconfig.cache
+Z:\Programacion 4to BEN_DOV\TP_02bis\obj\Debug\net8.0\ref\TP_02bis.dll
